@@ -1,12 +1,12 @@
-<footer class="footer-area section-padding-80-0">
+<footer class="footer-area section-padding-80-0" style="background-color: rgb(0, 0, 0)">
         <div class="container">
             <div class="row justify-content-between">
 
                 <!-- Single Footer Widget -->
-                <div class="col-12 col-sm-6 col-md-4">
+                <div class="col-12 col-sm-6 col-md-4" style="color: white">
                     <div class="single-footer-widget mb-80">
                         <!-- Footer Logo -->
-                        <a href="#" class="footer-logo"><img src="/img/core-img/logo.png" alt=""></a>
+                        <!--<a href="#" class="footer-logo"><img src="/img/core-img/logo.png" alt=""></a>-->
 
                         <p class="mb-30">We would love to serve you and let you enjoy your culinary experience. Excepteur sint occaecat cupidatat non proident.</p>
 
@@ -23,7 +23,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                 <div class="col-12 col-sm-6 col-md-4 col-xl-3">
                     <div class="single-footer-widget mb-80">
                         <!-- Widget Title -->
-                        <h4 class="widget-title">Opening times</h4>
+                        <h4 class="widget-title" style="color: white">Opening times</h4>
 
                         <!-- Open Times -->
                         <div class="open-time">
@@ -31,13 +31,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                             <p>Saturday: 10.00 - 19.00</p>
                         </div>
 
-                        <!-- Social Info -->
-                        <div class="social-info">
-                            <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
-                            <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
-                            <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
-                            <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
-                        </div>
                     </div>
                 </div>
 
@@ -46,7 +39,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     <div class="single-footer-widget mb-80">
 
                         <!-- Widget Title -->
-                        <h4 class="widget-title">Contact Us</h4>
+                        <h4 class="widget-title" style="color: white">Contact Us</h4>
 
                         <!-- Contact Address -->
                         <div class="contact-address">

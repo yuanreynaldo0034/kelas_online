@@ -14,7 +14,7 @@
                             <!-- Welcome Text -->
                             <div class="col-12 col-md-9 col-lg-6">
                                 <div class="welcome-text">
-                                    <h2 data-animation="fadeInUp" data-delay="100ms">We Care About <br> Your Olshop</h2>
+                                    <h2 data-animation="fadeInUp" data-delay="100ms">We Care With <br> Your Olshop</h2>
                                     <p data-animation="fadeInUp" data-delay="400ms">“Discover your own style. Don't try to repeat what has already been written - have the courage to do your own thing and don't be afraid to do something different.”</p>
                                     <a href="/signup" class="btn akame-btn" data-animation="fadeInUp" data-delay="700ms">Daftar Sekarang</a>
                                 </div>
@@ -33,9 +33,9 @@
                 <!-- Section Heading -->
                 <div class="col-12 col-md-6 col-lg-4">
                     <div class="section-heading mb-80">
-                        <h2>Hair Salon</h2>
-                        <p>The House of Hair Salon &amp; Spa</p>
-                        <span>About Us</span>
+                        <h2>Digital Marketing</h2>
+                        <p>can make your online shop popular &amp; closing every day.</p>
+                        <span>Online Class</span>
                     </div>
                 </div>
 
@@ -51,7 +51,7 @@
                     <div class="about-us-content mb-80 pl-4">
                         <h3>Beautiful Hair Comes From A Legendary.</h3>
                         <p>“Working in a salon, you look at trends all day long. You’re looking at color all the time,what new products are coming out. You’re a part of the fashion industry,especially if you’re working in a higher-end salon.”</p>
-                        <a href="#" class="btn akame-btn active mt-30">Read More</a>
+                        
                     </div>
                 </div>
             </div>
@@ -71,7 +71,7 @@
                 <div class="col-12">
                     <!-- Section Heading -->
                     <div class="section-heading text-center">
-                        <h2>Our Services</h2>
+                        <h2>Our Product</h2>
                         <p>The House of Hair Salon &amp; Spa, incididunt ut labore et dolore magna aliqua.</p>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
                     <div class="single-service-area mb-80 wow fadeInUp" data-wow-delay="600ms">
                         <img src="img/core-img/s4.png" alt="">
                         <h5>ORGANIC MARKETING</h5>
-                        <p>Nemo enim ipsam voluptatem quia voluptas</p>
+                        <p>Nemo enim ipsam</p>
                     </div>
                 </div>
 

@@ -6,7 +6,7 @@
             <nav class="classy-navbar" id="akameNav">
 
                <!-- Logo -->
-                <a class="nav-brand" href="index.html"><img src="/img/core-img/logo.png" alt=""></a>
+                <a class="nav-brand"><img src="/img/core-img/logo.png" alt=""></a>
 
                <!-- Navbar Toggler -->
                 <div class="classy-navbar-toggler">
